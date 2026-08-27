@@ -21,3 +21,9 @@
 3. Откройте главную сцену (SampleScene) из папки `Assets/Scenes/`.
 4. Нажмите **Play (▶)** в Unity и наведите веб-камеру на изображение любой из карточек планет.
 5. Карточки планет лежат в Assets/Cards
+
+Демонстрация работы:
+
+https://github.com/user-attachments/assets/d9e17186-6a5f-4a37-ab95-d93a087af5b7
+
+
