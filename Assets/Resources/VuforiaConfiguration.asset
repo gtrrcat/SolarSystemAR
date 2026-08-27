@@ -24,13 +24,13 @@ MonoBehaviour:
     shareRecordingsInITunes: 0
     logLevel: 0
     version: 11.4.4
-    eulaAcceptedVersions: '{"Values":["11.4"]}'
+    eulaAcceptedVersions: '{"Values":["11.4","9.8"]}'
   database:
     disableModelExtraction: 0
   plugins:
     pluginDirectory: asset://Vuforia
   shaders:
-    depthMaskShader: {fileID: 4800000, guid: 9894afa5f3a5e4bbca625981beb1b20e, type: 3}
+    depthMaskShader: {fileID: 4800000, guid: 1ce7eb78425fb1540838bc9d5d95857a, type: 3}
     outlineShader: {fileID: 4800000, guid: 88d3b6b5cf364476ca39fcec255331b1, type: 3}
     unlitTransparentShader: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
   runtimeResources:
@@ -41,7 +41,7 @@ MonoBehaviour:
     unlitShader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoStartTracker: 1
+    autoStartTracker: 0
     arcoreRequirement: 1
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
