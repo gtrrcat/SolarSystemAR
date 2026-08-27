@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="venus" size="1.000000 1.413000" />
+    <ImageTarget name="jupiter" size="1.000000 1.413000" />
+    <ImageTarget name="mars" size="1.000000 1.413000" />
+    <ImageTarget name="earth" size="1.000000 1.413000" />
+  </Tracking>
+</QCARConfig>
